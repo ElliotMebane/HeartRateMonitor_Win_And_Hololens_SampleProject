@@ -32,8 +32,7 @@ Unity Editor Version: 2017.4.14f1
 Mixed Reality Toolkit 2017.4.2.0 (as seen in: Assets\HoloToolkit\MRTKVersion.txt  
 https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.2.0  
   
-Windows SDK 10.0.17763.0 (as seen in: C:\Program Files (x86)\Windows Kits\10\SDKManifest.xml)   
-PlatformIdentity = "UAP, Version=10.0.16299.0"   
+Windows SDK 10.0.17763.0 (as seen in: C:\Program Files (x86)\Windows Kits\10\SDKManifest.xml)    
   
 Microsoft Visual Studio Community 2017 Version: 15.8.7  
 .NET Version 4.7.03056  
