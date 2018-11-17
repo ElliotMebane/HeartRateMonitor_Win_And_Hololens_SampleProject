@@ -18,13 +18,12 @@ Failed Devices
   
 -----------  
   
-Plugin Testing and Confirmation  
-
-I will occasionally update my toolset and republish to HoloLens to confirm that everything is still working. Below is the latest toolset I tested with:
-
 2018/11/11  
+Plugin Testing and Confirmation  
 Successful Build and test on HoloLens HRM Plugin version: 1.3.4.0  
-  
+    
+I will occasionally update my toolset and republish to HoloLens to confirm that everything is still working. This is the toolset used in my latest test:
+   
 Unity Editor Version: 2017.4.14f1  
 (as seen in: ProjectSettings > ProjectVersion.txt)  
   
