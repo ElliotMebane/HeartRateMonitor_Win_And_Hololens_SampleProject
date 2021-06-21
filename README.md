@@ -9,8 +9,9 @@ Device Compatibility
 The plugin looks for devices broadcasting the standard Bluetooth Heart Rate Measurement Characteristic. In field testing there have been confirmed failures to identify some HRM devices. The list of tested devices is below. If you have tested the plugin with another device, please let me know so I may add it to the list.  
   
 Successful Devices  
--- Polar H7 chest strap  
--- Zephyr HxM Smart chest strap Rhythm 24 wrist-worn  
+-- Polar H7 (chest strap)  
+-- Zephyr HxM Smart (chest strap) 
+-- Scosche Rhythm 24 (wrist-worn)  
   
 Failed Devices  
 -- Zoom HRV wrist-worn (Fails to be seen by HoloLens, can be seen by Win 10 app)  
