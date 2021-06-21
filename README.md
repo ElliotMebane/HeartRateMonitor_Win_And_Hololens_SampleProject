@@ -10,7 +10,7 @@ The plugin looks for devices broadcasting the standard Bluetooth Heart Rate Meas
   
 Successful Devices  
 -- Polar H7 (chest strap)  
--- Zephyr HxM Smart (chest strap) 
+-- Zephyr HxM Smart (chest strap)  
 -- Scosche Rhythm 24 (wrist-worn)  
   
 Failed Devices  
